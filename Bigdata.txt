@@ -1,6 +1,6 @@
 seaborn
 matplotlib
 pandas
-geopy.distance
+geopy
 datetime
 
